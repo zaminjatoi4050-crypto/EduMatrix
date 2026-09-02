@@ -1,0 +1,48 @@
+[
+    {
+        "student_id": "K25SW046",
+        "name": "Engineer Jatoi",
+        "class_name": "Lab 03",
+        "age": 18,
+        "subjects": {
+            "DS": 85,
+            "DSA": 80,
+            "QR II": 78,
+            "SRE": 88,
+            "SME": 82,
+            "Quran": 87
+        },
+        "attendance": 85,
+        "previous_marks": {
+            "DS": 67,
+            "DSA": 78,
+            "QR II": 90,
+            "SRE": 78,
+            "SME": 87,
+            "Quran": 98
+        }
+    },
+    {
+        "student_id": "K25SW016",
+        "name": "Abdul Wasiu",
+        "class_name": "Lab 03",
+        "age": 19,
+        "subjects": {
+            "DS": 85,
+            "DSA": 80,
+            "QR II": 78,
+            "SRE": 88,
+            "SME": 82,
+            "Quran": 87
+        },
+        "attendance": 85,
+        "previous_marks": {
+            "DS": 95,
+            "DSA": 70,
+            "QR II": 68,
+            "SRE": 98,
+            "SME": 72,
+            "Quran": 67
+        }
+    }
+]
